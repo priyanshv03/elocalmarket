@@ -1,0 +1,22 @@
+
+.cards{
+    border-radius: 13px;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    margin: 5% 10%;
+   
+    border: 2px solid red;
+}
+.card{
+border: 2px solid green;
+border-spacing: 100%;
+border-radius: 13px;
+margin: 3px;
+
+
+}
+img{
+    height: 150px;
+    width: 150px;
+}

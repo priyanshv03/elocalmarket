@@ -1,0 +1,15 @@
+
+#setting-width{
+    width: 65vw;
+    margin:auto;
+}
+
+.huge{
+    height: 450px;
+    margin-bottom: 40px;
+  
+}
+.next-icon{
+    filter: invert(100%);
+    
+}

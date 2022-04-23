@@ -1,0 +1,34 @@
+
+@media only screen and (max-width: 1200px) {
+    .container {
+      margin: auto;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+  }
+
+.container{
+
+    margin-top: 18px;
+    display: flex;
+    align-content: flex-start;
+
+}
+
+.box{
+   
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.logos{
+    height: 50px;
+    width: 50px;
+    margin-right: 5px;
+}
+
+h6{
+    font-size: x-small;
+    font-weight: 600;
+}

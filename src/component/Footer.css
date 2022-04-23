@@ -1,0 +1,60 @@
+#footer-width {
+    padding: 50px;
+
+    width: 70vw;
+    margin: auto;
+    background-color: rgb(239, 239, 239);
+}
+
+div {
+    font-size: x-small;
+
+}
+
+div.size {
+    font-size: small;
+    font-weight: 600;
+    margin-top: 8px;
+    margin-bottom: 5px;
+
+}
+
+.img-left {
+    display: inline;
+}
+
+.card_title_footer {
+    display: inline-block;
+}
+
+.Adjective {
+    display: block;
+}
+
+
+
+.main-border {
+    border: 2px solid red;
+}
+
+.item1 {
+    border: 2px solid black;
+    display: inline-block;
+    width: 33vw;
+
+}
+
+.imgs {
+    border: 2px solid rgb(53, 161, 85);
+    height: 80px;
+    width: 80px;
+    display: inline;
+}
+
+.texts {
+    border: 2px solid blue;
+    display: inline;
+    height: 80px;
+    width: 80px;
+    margin: auto;
+}
