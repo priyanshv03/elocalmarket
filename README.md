@@ -5,10 +5,10 @@
 Intro of the project
 
  <h2>Demo Video Link:</h2>
-https://youtu.be/dQw4w9WgXcQ
+uploaded soon :)
 
 <h2>Presentation Link:</h2>
-PPT link here:
+PPT link here:yet to be uploaded
 
 <h2>Table of Contents:</h2>
 <h3>Technology Stack:</h3>
