@@ -1,12 +1,13 @@
 import React from "react";
 import "./Navbar.css";
-
+import Favicon from "./image/Favicon.png"
 
 export default function Navbar() {
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light  sticky">
-        <div className="container-fluid">
+        <div className="container-fluid bgc">
+          <img  className="main-logo" src={Favicon} alt=".."/>
           <a className="navbar-brand" href="/">
             eTeliarganj
           </a>

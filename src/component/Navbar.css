@@ -17,4 +17,14 @@
     position: fixed;
     top: 0;
     width: 100%;
+      }
+
+  .main-logo{
+    height: 91px;
+    width: 235px;
   }
+  .bgc{
+    background: #4f35e2;
+  }
+
+
